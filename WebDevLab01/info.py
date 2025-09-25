@@ -32,10 +32,10 @@ course_data = {
     }
 experience_data = {
     "Tennis Camp Counselor": (["- Worked over the summer Freshman-Senior year of High School",
-                                                                          "- Coached kids ages 5-13 in tennis", "- Led groups of 10-15 kids through daily activities"],"Images/IMG_5207.JPG"),
+                                                                          "- Coached kids ages 5-13 in tennis", "- Led groups of 10-15 kids through daily activities"],"images/IMG_5207.JPG"),
     "Teen Board Member":(["- Selected as one of 20 members from Metro Atlanta",
-                                                           "- Helped plan and run numerous events for childhood cancer patients and fundraised $700+"],"Images/IMG_7686.jpeg"),
-    "DECA Comepetitor":(["- Regional: 2nd in Human Resources Management State: 7th in Hospitality and Tourism"],"Images/IMG_4303.jpeg")
+                                                           "- Helped plan and run numerous events for childhood cancer patients and fundraised $700+"],"images/IMG_7686.jpeg"),
+    "DECA Comepetitor":(["- Regional: 2nd in Human Resources Management State: 7th in Hospitality and Tourism"],"images/IMG_4303.jpeg")
 
 }
 
@@ -64,7 +64,7 @@ spoken_data = {
     "English": "Fluent",
 }
 leadership_data = {
-    "Dunwoody Highschool Tennis Captain": (["- Led team to the State Playoffs"],"Images/IMG_2442.jpeg"),
+    "Dunwoody Highschool Tennis Captain": (["- Led team to the State Playoffs"],"images/IMG_2442.jpeg"),
 
 }
 activity_data={
