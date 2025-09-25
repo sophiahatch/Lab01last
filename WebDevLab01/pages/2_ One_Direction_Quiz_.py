@@ -42,9 +42,9 @@ favorite_trait = st.radio(
 )
 
 # Display images of One Direction members
-st.image("Images/Harry.jpg", caption="Harry Styles", width=250)  # NEW 
-st.image("Images/Liam_Payne.webp", caption="Liam Payne", width=250)  # NEW 
-st.image("Images/zayn.jpeg", caption="Zayn Malik", width=250)  # NEW 
+st.image("images/Harry.jpg", caption="Harry Styles", width=250)  # NEW 
+st.image("images/Liam_Payne.webp", caption="Liam Payne", width=250)  # NEW 
+st.image("images/zayn.jpeg", caption="Zayn Malik", width=250)  # NEW 
 
 # 6. Show results based on answers
 if st.button("Submit"):
